@@ -1,0 +1,5 @@
+{
+  "name": "Finora",
+  "description": "A comprehensive financial management suite featuring income/expense tracking, smart budgeting, debt snowball analysis, and financial literacy modules. Built with a persistent local storage architecture to simulate a full-stack experience.",
+  "requestFramePermissions": []
+}
